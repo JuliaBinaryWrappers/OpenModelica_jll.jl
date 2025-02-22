@@ -1,0 +1,10 @@
+[[OpenModelica]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b064bdfa0da2db51f6d4d467c9c0f49a75eebb3d"
+libc = "glibc"
+os = "linux"
+
+    [[OpenModelica.download]]
+    sha256 = "23d40f96f67d4688a5c08be5120ff949b76785ab79a748b99dd62abb678767ae"
+    url = "https://github.com/JuliaBinaryWrappers/OpenModelica_jll.jl/releases/download/OpenModelica-v1.24.3+0/OpenModelica.v1.24.3.x86_64-linux-gnu-cxx11.tar.gz"
