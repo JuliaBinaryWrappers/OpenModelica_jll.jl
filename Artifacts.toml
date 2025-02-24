@@ -1,10 +1,20 @@
 [[OpenModelica]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b064bdfa0da2db51f6d4d467c9c0f49a75eebb3d"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c1d7da775d9000f46fafc8b124fdc836713c0f33"
 libc = "glibc"
 os = "linux"
 
     [[OpenModelica.download]]
-    sha256 = "23d40f96f67d4688a5c08be5120ff949b76785ab79a748b99dd62abb678767ae"
-    url = "https://github.com/JuliaBinaryWrappers/OpenModelica_jll.jl/releases/download/OpenModelica-v1.24.3+0/OpenModelica.v1.24.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "9a7439c76a1626df318ab8f33482f37c4aadb638f71b6ab560ab034e6b4c7a02"
+    url = "https://github.com/JuliaBinaryWrappers/OpenModelica_jll.jl/releases/download/OpenModelica-v1.24.4+0/OpenModelica.v1.24.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[OpenModelica]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1bca92bb51c61b04163b9faf3f3c499ef53cd224"
+libc = "glibc"
+os = "linux"
+
+    [[OpenModelica.download]]
+    sha256 = "811adb96e2824a8dd8740be95b1736498b5fd9082162a6bd99ef69620cec43e2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenModelica_jll.jl/releases/download/OpenModelica-v1.24.4+0/OpenModelica.v1.24.4.x86_64-linux-gnu-cxx11.tar.gz"
