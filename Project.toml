@@ -1,6 +1,6 @@
 name = "OpenModelica_jll"
 uuid = "9f7df15b-5a47-555b-9aa9-3ac811eb3b4c"
-version = "1.24.4+0"
+version = "1.25.0+0"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
